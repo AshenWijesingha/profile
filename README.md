@@ -22,7 +22,7 @@
 <h5 align="center">
   <code><a href="https://www.facebook.com/ashen.dilshan.96" title="Facebook Profile"><img width="25px" height="25px" src="https://www.facebook.com/images/fb_icon_325x325.png"> Facebook</a></code>
   <code><a href="https://www.instagram.com/ashen_wijesingha/" title="Instagram Profile"><img width="25px" height="25px" src="https://static.cdninstagram.com/rsrc.php/v4/yR/r/hexDR1NOpRC.png"> Instagram</a></code>
-  <code><a href="https://www.linkedin.com/in/ashen-wijesingha-89137312b/" title="LinkedIn Profile"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/linkedin.png"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/ashen-wijesingha-89137312b/" title="LinkedIn Profile"><img width="25px" height="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png"> LinkedIn</a></code>
   <code><a href="https://www.twitter.com/ashen_wijesingh" title="Twitter Profile"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/twitter.png"> Twitter</a></code>
   <code><a href="mailto:a.d.wijesina@gmail.com; a.d.wijesingha@outlook.com" title="Send Email"><img width="25px" height="25px" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
 </h5>
